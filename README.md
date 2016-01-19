@@ -8,4 +8,4 @@
 
 ##Git
 
-1. https://try.github.io/levels/1/challenges/1
+1. Code School-Try Git: https://try.github.io/levels/1/challenges/1
