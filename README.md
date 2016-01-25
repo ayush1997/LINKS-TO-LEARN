@@ -29,16 +29,14 @@
 ## Competitive Programming
 
   * Basic skills you can start learning:
-    * basics
+    * Descrete mathematics 
     * divide and conqure
-    * recursion
-    * dynamic programming
-    * --
   
   * Sites for learning :
-      * --
-      * --
-      * --
+      * http://www.ideserve.co.in
+      * https://www.youtube.com/user/saurabhschool
+      * http://ocw.mit.edu/6-042JF10
+      * http://ocw.mit.edu/6-042JF10
   
   * Sites for practicing :
       * hackerrank.com
