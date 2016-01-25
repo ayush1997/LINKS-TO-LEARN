@@ -10,7 +10,7 @@
       * Python (Edx): https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6
       * Learning Git: https://try.github.io/levels/1/challenges/1
       * HTML, CSS, Javascript and Jquery: 
- 
+  
           1. https://www.codecademy.com/learn/all
           2. http://www.w3schools.com/
 
@@ -55,7 +55,8 @@
 
   * Frameworks and stacks 
 
-      *Flask(Python Microframework) 
+      * Flask(Python Microframework):
+      
            1. http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
            2. http://flask.pocoo.org/docs/0.10/
       * LAMP ( Linux, Apache, MySQL, and PHP/Python/Perl )
