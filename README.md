@@ -39,7 +39,7 @@
       * http://www.ideserve.co.in
       * https://www.youtube.com/user/saurabhschool
       * http://ocw.mit.edu/6-042JF10
-      * http://ocw.mit.edu/6-042JF10
+
   
   * Sites for practicing :
       * hackerrank.com
